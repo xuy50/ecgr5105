@@ -1,0 +1,32 @@
+Dataset preview:
+         X1        X2        X3         Y
+0  0.000000  3.440000  0.440000  4.387545
+1  0.040404  0.134949  0.888485  2.679650
+2  0.080808  0.829899  1.336970  2.968490
+3  0.121212  1.524848  1.785455  3.254065
+4  0.161616  2.219798  2.233939  3.536375
+
+p1:
+
+Variable x1, Learning Rate 0.1: theta0 = 5.9279, theta1 = -2.0383, final loss = 0.984993
+Variable x1, Learning Rate 0.05: theta0 = 5.9279, theta1 = -2.0383, final loss = 0.984993
+Variable x1, Learning Rate 0.01: theta0 = 5.8589, theta1 = -2.0115, final loss = 0.985605
+Variable x2, Learning Rate 0.1: theta0 = 0.7361, theta1 = 0.5576, final loss = 3.599366
+Variable x2, Learning Rate 0.05: theta0 = 0.7361, theta1 = 0.5576, final loss = 3.599366
+Variable x2, Learning Rate 0.01: theta0 = 0.7307, theta1 = 0.5597, final loss = 3.599370
+Variable x3, Learning Rate 0.1: theta0 = 2.8714, theta1 = -0.5205, final loss = 3.629451
+Variable x3, Learning Rate 0.05: theta0 = 2.8714, theta1 = -0.5205, final loss = 3.629451
+Variable x3, Learning Rate 0.01: theta0 = 2.8419, theta1 = -0.5088, final loss = 3.629565
+
+
+p2:
+
+Learning Rate 0.1: theta = [ 5.31416717 -2.00371927  0.53256334 -0.26560187], final loss = 0.738464
+Learning Rate 0.05: theta = [ 5.31416557 -2.00371904  0.5325636  -0.26560163], final loss = 0.738464
+Learning Rate 0.01: theta = [ 5.05362928 -1.96691398  0.57561561 -0.22741231], final loss = 0.742087
+
+Best learning rate for multi-feature regression: 0.1
+Final model coefficients: theta0 = 5.3142, theta1 = -2.0037, theta2 = 0.5326, theta3 = -0.2656
+Input [1 1 1]: predicted y = 3.5774
+Input [2 0 4]: predicted y = 0.2443
+Input [3 2 1]: predicted y = 0.1025
