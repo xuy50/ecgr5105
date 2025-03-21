@@ -3,7 +3,7 @@
 **Student Name:** Yang Xu<br>
 **Student ID:** 801443244<br>
 **Assignment Number:** 1<br>
-**GitHub Repository:** [GitHub repo](https://github.com/xuy50/ecgr5105-hw1)<br>
+**GitHub Repository:** [GitHub repo](https://github.com/xuy50/ecgr5105/tree/main/Assignment_1)<br>
 
 ## Problem 1: Single-Feature Regression
 - Three separate gradient descent models were developed for x1, x2, and x3.
